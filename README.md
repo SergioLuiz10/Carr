@@ -13,6 +13,8 @@ A função pista é responsável por exibir visualmente o progresso dos carros n
 
 
 ======================================================================================================================================================================================================================
+
+
 This code I wrote is a small racing simulator implemented in Java. Let's take a closer look.
 
 First, we have two main classes: kombe and kombe2, which are the base classes for the competing cars. Both are abstract and have methods to accelerate, but each implements this method differently, reflecting unique characteristics of each car.
